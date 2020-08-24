@@ -23,7 +23,7 @@ git log
 
 to check the status of the files. 
 ```Zsh
-	git status 
+git status 
 ```
 Red means not added to the staging area. Green means added to the staging area
 It reports that nothing is on the staging area
@@ -50,11 +50,11 @@ I can remove the remote repository on GitHub by Settings->Manage->Danger Zone
 
 ### Branching and Merging
 ```Zsh
-	git branch alien-plot			# Creates a new branch
-	git branch								# lists all the branches
-	git checkout alien-plot		# start using files on my-branch as if in master
-	git branch								# recommended comand before switching back to master branch
-	git checkout master				# puts you back on the master repository (complete snapshot)
+	git branch alien-plot     # Creates a new branch
+	git branch                # lists all the branches
+	git checkout alien-plot   # start using files on my-branch as if in master
+	git branch                # recommended comand before switching back to master branch
+	git checkout master       # puts you back on the master repository (complete snapshot)
 ```
 
 You work indipendently on master and branch, than you merge the changes when both are in good state.
