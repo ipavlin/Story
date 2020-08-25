@@ -1,2 +1,7 @@
 Additions for the alien-plot
 Here introducing a new file in branch alien-plot
+25-08-20
+
+Work on Chapter 4, branch alien-plot
+Question is how will this show in the Insights on the Network on the GitHub
+Where do I see the branch being opened and closed.
